@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live [NEWS POST](https://heuristic-colden-a1272d.netlify.app/).
+## Live [NEWS POST](https://heuristic-colden-a1272d.netlify.app/).
 
 
 ## Available Scripts
